@@ -64,7 +64,7 @@ def evaluate(model, X, y):
     }, pred
 
 st.title("🤖 Machine Learning Classification Dashboard")
-st.caption("M.Tech (AIML/DSE) • Assignment 2 • Jivitesh Kumar Choudhary • BITSID: 2025AC05786")
+st.caption("M.Tech (AI/ML) • Assignment 2 • Jivitesh Kumar Choudhary • BITSID: 2025AC05786")
 
 with st.sidebar:
     st.header("Controls")
