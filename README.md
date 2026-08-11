@@ -2,7 +2,7 @@
 
 **Student:** Jivitesh Kumar Choudhary  
 **BITSID:** 2025AC05786  
-**Programme:** M.Tech (AIML/DSE)  
+**Programme:** M.Tech (AI/ML)  
 **Course:** Machine Learning  
 **Assignment:** 2
 
@@ -40,7 +40,7 @@ Repository contents:
 
 ## 4. Models used
 
-The assignment explicitly lists Logistic Regression, Decision Tree, kNN, Gaussian/Multinomial Naive Bayes and Random Forest. The document also refers to “all 6 ML models” while naming five; therefore, **SVM is included as the sixth model** to satisfy the six-model wording without removing any required model.
+The assignment explicitly lists Logistic Regression, Decision Tree, kNN, Gaussian/Multinomial Naive Bayes and Random Forest. However, the instruction document refers to “all **6 ML models**” while naming five; therefore, I have added **SVM as the sixth model** to satisfy the six-model wording without removing any required model.
 
 ### Experimental setup
 
