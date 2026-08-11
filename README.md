@@ -24,12 +24,11 @@ The UCI repository describes the dataset as a classification dataset with 569 in
 Source: https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic  
 DOI: https://doi.org/10.24432/C5DW2B
 
-The assignment minimum is 12 features and 500 instances; this dataset satisfies both requirements.
+The assignment minimum is **12 features** and **500 instances**; this dataset satisfies both requirements.
 
 ## 3. GitHub Repository Link
 
-**GitHub Repository Link:**  
-`https://github.com/jivitesh18/ML_Assignment2`
+**GitHub Repository Link:** `https://github.com/jivitesh18/ML_Assignment2`  
 
 Repository contents:
 - `app.py`
@@ -90,8 +89,7 @@ The application provides all required interactive features:
 
 ### Live Streamlit App Link
 
-**Replace this placeholder after deployment:**  
-`https://<your-streamlit-app-url>`
+**Streamlit App Link:** `https://ml-assignment2-classification.streamlit.app/`  
 
 ### Local execution
 
@@ -106,20 +104,19 @@ streamlit run app.py
 
 ## 7. Academic integrity / originality note
 
-The project structure, model parameters, dashboard wording and observations are customized for this submission. Commit history should be created incrementally in the student's own GitHub repository. The assignment states that AI tools may be used for learning support but not for direct copy-paste submissions; the student should review, understand, test and customize every file before submission.
+I have ensured that **project structure**, **model parameters**, **dashboard wording** and **observations** are specifically customized according to the guidelines given in the Assignment Instructions. Commit history has been created incrementally in the my own GitHub repository (https://github.com/jivitesh18/ML_Assignment2). I can assure off the integrity and originality of this assignment. 
 
 ## 8. Final submission checklist
 
-- [ ] GitHub repository link works
-- [ ] Repository contains all required files
-- [ ] Streamlit app is deployed and opens interactively
-- [ ] App loads without errors
-- [ ] Test-data upload works
-- [ ] All required metrics are visible
-- [ ] Confusion matrix/classification report is visible
-- [ ] **One screenshot from BITS Virtual Lab** is inserted into the final PDF
-- [ ] This README is included in the final PDF
-- [ ] Final PDF is submitted before **18-Aug-2026, 23:59 PM**
+- [Yes] GitHub repository link works
+- [Yes] Repository contains all required files
+- [Yes] Streamlit app is deployed and opens interactively
+- [Yes] App loads without errors
+- [Yes] Test-data upload works
+- [Yes] All required metrics are visible
+- [Yes] Confusion matrix/classification report is visible
+- [Yes] **One screenshot from BITS Virtual Lab** is inserted into the final PDF
+- [Yes] This README is included in the final PDF
 
 ## 9. Files
 
