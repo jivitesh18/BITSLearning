@@ -28,8 +28,8 @@ The assignment minimum is 12 features and 500 instances; this dataset satisfies 
 
 ## 3. GitHub Repository Link
 
-**Replace this placeholder after creating the GitHub repository:**  
-`https://github.com/<your-github-username>/ml-assignment-2-classification`
+**GitHub Repository Link:**  
+`https://github.com/jivitesh18/ML_Assignment2`
 
 Repository contents:
 - `app.py`
